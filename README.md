@@ -1,12 +1,23 @@
-# Linux Learning
+# Linux, Networking, and Cloud concepts
 
-This repository contains my notes, experiments, and hands-on practice while learning Linux fundamentals.
+This repository documents my structured learning journey in:
 
-## Structure
-- **basics/** – Core Linux concepts
-- **commands/** – Command explanations and examples
-- **networking/** – Networking fundamentals
-- **notes/** – Daily learning logs
+- Linux (primary focus)
+- Networking fundamentals
+- Cloud computing concepts
+
+The goal of this repo is to reinforce learning through hands-on practice,
+clear documentation, and daily learning logs.
+
+## Repository Structure
+
+- `commands/` – Documented Linux commands with explanations and examples
+- `basics/` – Core Linux concepts and fundamentals
+- `networking/` – Networking notes and concepts (e.g., OSI model)
+- `cloud/` – Cloud computing fundamentals and introductory concepts
+- `notes/`
+  - `daily-log.md` – Daily learning log with reflections and progress tracking
+
 
 ## Goal
 Build a strong Linux foundation for systems, networking, and cloud security.
