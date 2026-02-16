@@ -19,7 +19,7 @@
 - Need to understand the path for relative paths. 
 - Progress feels good; first batch of commands documented and pushed
 
-## 2026-01-23
+## 2026-02-16
 
 ### Linux (continued)
 - Documented file deletion commands:
