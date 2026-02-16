@@ -48,3 +48,27 @@
   - Compared cloud services vs on-premises data centers
 
 - Couldn't update the daily log yesterday
+
+
+## Log Gap Note
+
+There was a gap in daily logging during which learning continued. Key topics
+from this period have been documented in the repository under their
+respective sections.
+
+## 2026-01-24
+
+### Linux
+- Documented Linux documentation tools:
+  - man pages and common options
+  - GNU Info system
+  - help and --help usage
+  - Other documentation sources
+
+### Networking
+- Could'nt continue networking course due to an expired coursera subscrition.
+  Will continue as soon as I subscribe again.
+
+### Notes
+- Focused on consolidating documentation rather than new topics.
+
