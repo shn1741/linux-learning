@@ -19,6 +19,8 @@
 - Need to understand the path for relative paths. 
 - Progress feels good; first batch of commands documented and pushed
 
+---
+
 ## 2026-02-16
 
 ### Linux (continued)
@@ -56,6 +58,8 @@ There was a gap in daily logging during which learning continued. Key topics
 from this period have been documented in the repository under their
 respective sections.
 
+---
+
 ## 2026-01-24
 
 ### Linux
@@ -71,4 +75,12 @@ respective sections.
 
 ### Notes
 - Focused on consolidating documentation rather than new topics.
+
+---
+
+## 2026-02-18
+
+- Studied process metrics and job control
+- Learned load averages and process states
+- Documented ps, top, pstree, and job control commands
 
