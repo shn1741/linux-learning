@@ -21,7 +21,7 @@
 
 ---
 
-## 2026-02-16
+## 2026-01-23
 
 ### Linux (continued)
 - Documented file deletion commands:
@@ -60,7 +60,7 @@ respective sections.
 
 ---
 
-## 2026-01-24
+## 2026-02-16
 
 ### Linux
 - Documented Linux documentation tools:
