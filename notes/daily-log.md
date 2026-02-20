@@ -90,4 +90,5 @@ respective sections.
 
 - Studied scheduling processes using at, cron, anacron, and sleep
 - Completed lab exercises for at and cron
-
+- Studied Linux filesystems, partitions, mounting, and NFS
+- Documented filesystem types and network filesystem concepts
