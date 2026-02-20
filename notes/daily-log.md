@@ -84,3 +84,10 @@ respective sections.
 - Learned load averages and process states
 - Documented ps, top, pstree, and job control commands
 
+---
+
+## 2026-02-20
+
+- Studied scheduling processes using at, cron, anacron, and sleep
+- Completed lab exercises for at and cron
+
