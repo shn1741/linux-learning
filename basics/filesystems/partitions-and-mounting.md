@@ -34,6 +34,6 @@ Persistent Mounting:
 
 `mount`
 
-`df -Tf`
+`df -Th`
 - Displays filesystem type, usage, and available space.
 
