@@ -92,3 +92,16 @@ respective sections.
 - Completed lab exercises for at and cron
 - Studied Linux filesystems, partitions, mounting, and NFS
 - Documented filesystem types and network filesystem concepts
+
+---
+
+## 2026-02-23
+
+### Concepts
+- Studied filesystem layout. 
+
+### Notes
+- Practice needed for scheduling jobs, wildcards.
+- Chapter 9 and 10 will require more revision. Very important chapter.
+- Cloud concepts put on hold for the moment. Will reflect that in the repo structure at some time. 
+- Networking fundamentals course back online. Will need to give more time to catch up. 
