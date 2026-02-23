@@ -99,9 +99,15 @@ respective sections.
 
 ### Concepts
 - Studied filesystem layout. 
+- Learned to compare files and directories using `diff` and `cmp`.
+- Practiced `diff3` to compare three files with one as reference.
+- Learned to create and apply patches with `diff` + `patch`.
+- Learned to apply patches to directories using `patch -p1`.
+- Explored `file` utility to determine real file types (text, binary, executable).
 
 ### Notes
 - Practice needed for scheduling jobs, wildcards.
 - Chapter 9 and 10 will require more revision. Very important chapter.
 - Cloud concepts put on hold for the moment. Will reflect that in the repo structure at some time. 
 - Networking fundamentals course back online. Will need to give more time to catch up. 
+
