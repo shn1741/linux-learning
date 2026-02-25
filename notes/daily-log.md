@@ -111,3 +111,23 @@ respective sections.
 - Cloud concepts put on hold for the moment. Will reflect that in the repo structure at some time. 
 - Networking fundamentals course back online. Will need to give more time to catch up. 
 
+---
+
+## 2026-02-25
+
+### Summary
+Studied backing up and compressing data in Linux. Covered rsync, tar, different compression methods
+(gzip, bzip2, xz), and basic usage of dd for disk imaging.
+
+### Lab Work
+Practiced syncing directories with rsync, tested --delete, compared compression sizes using different
+algorithms, and created a sample disk image safely with dd.
+
+### What Challenged Me
+Archiving is straight forward. How ever compressing gets a bit confusing, especially since todays lab
+produced counter intuitive results. xz was supposed to give the smallest file size followed by bzip2
+and then gzip, however, since the archive file was very repetitive it affected the compression. 
+
+### Overall Reflection
+The backup and compression lab helped me retain and understand concepts and commands much better. I'm 
+much more confident in using them now.
