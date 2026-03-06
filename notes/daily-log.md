@@ -131,3 +131,23 @@ and then gzip, however, since the archive file was very repetitive it affected t
 ### Overall Reflection
 The backup and compression lab helped me retain and understand concepts and commands much better. I'm 
 much more confident in using them now.
+
+---
+
+## 2026-03-06
+
+### Summary
+
+Studied Linux text editors including nano, gedit, vi, and emacs. Learned how files can be created directly from the terminal using `echo` and `cat` with redirection, and explored the basic structure and modes of the `vi` editor.
+
+### Lab Work
+
+Reviewed and practiced basic file creation from the terminal and went through common navigation and editing commands used in `vi`. Also used `vimtutor` and went through the whole tutorial. 
+
+### What Challenged Me
+
+Keeping track of when commands operate in command mode versus insert mode. Theres a lot of keys for a lot of different things. Its only going to get easier with practice. Navigating within the lines may be the hardest thing for me. 
+
+### Overall Reflection
+
+This chapter introduced several editors used in Linux environments. Nano appears straightforward, while `vi` seems much more powerful but will require more practice to become comfortable with.
