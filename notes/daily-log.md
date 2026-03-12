@@ -151,3 +151,9 @@ Keeping track of when commands operate in command mode versus insert mode. There
 ### Overall Reflection
 
 This chapter introduced several editors used in Linux environments. Nano appears straightforward, while `vi` seems much more powerful but will require more practice to become comfortable with.
+
+---
+
+# 2026-03-12
+
+Documented backing up and compressing data which I had studied much earlier. Its lab was documented on the same day. 
