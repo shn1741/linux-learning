@@ -157,3 +157,23 @@ This chapter introduced several editors used in Linux environments. Nano appears
 # 2026-03-12
 
 Documented backing up and compressing data which I had studied much earlier. Its lab was documented on the same day. 
+
+---
+
+## 2026-03-07
+
+### Summary
+
+Started Chapter 12 on the user environment. Today’s section focused on accounts, users and groups. Learned how to identify the current user, how shell startup files configure the environment, and how aliases can be used to simplify commands. Also learned where Linux stores information about users and groups and how UID and GID work.
+
+### Lab Work
+
+Ran a small lab where I created a test user and a group, added the user to the group, and then checked how the changes appeared in `/etc/passwd` and `/etc/group`. Also practiced creating a persistent alias using `.bashrc`.
+
+### What Challenged Me
+
+While cleaning up the lab I tried deleting the test user and got a “user not found” type message even though I thought I had created it earlier. Had to double-check what actually existed on the system.
+
+### Overall Reflection
+
+This part of the chapter made the user and group system feel more concrete. Seeing how commands like `useradd`, `usermod`, and `groupadd` actually modify system files helped me understand how Linux manages accounts behind the scenes.
