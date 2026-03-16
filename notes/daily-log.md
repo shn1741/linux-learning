@@ -160,7 +160,7 @@ Documented backing up and compressing data which I had studied much earlier. Its
 
 ---
 
-## 2026-03-07
+## 2026-03-14
 
 ### Summary
 
@@ -177,3 +177,23 @@ While cleaning up the lab I tried deleting the test user and got a “user not f
 ### Overall Reflection
 
 This part of the chapter made the user and group system feel more concrete. Seeing how commands like `useradd`, `usermod`, and `groupadd` actually modify system files helped me understand how Linux manages accounts behind the scenes.
+
+---
+
+## 2026-03-17
+
+### Summary
+
+Continued Chapter 12 on the user environment and studied environment variables. Learned what environment variables are, how they influence the behavior of the shell and other programs, and how to view them using commands like `env`, `set`, and `export`.
+
+### Lab Work
+
+Ran a small lab where I viewed existing variables, created a new variable, exported it, modified the `PATH` variable, and experimented with the `PS1` variable to temporarily change the command prompt.
+
+### What Challenged Me
+
+Understanding the difference between variables that exist only in the current shell and variables that are exported so child processes can use them.
+
+### Overall Reflection
+
+Working with environment variables made it clearer how the shell environment is configured. Seeing how variables like `HOME`, `PATH`, and `PS1` directly affect the terminal helped connect the concepts to actual behavior in the shell.
