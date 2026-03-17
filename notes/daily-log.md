@@ -197,3 +197,23 @@ Understanding the difference between variables that exist only in the current sh
 ### Overall Reflection
 
 Working with environment variables made it clearer how the shell environment is configured. Seeing how variables like `HOME`, `PATH`, and `PS1` directly affect the terminal helped connect the concepts to actual behavior in the shell.
+
+---
+
+## 2026-03-17
+
+### Summary
+
+Finished Chapter 12 by studying command history and file permissions. Learned how to recall previous commands using history and shortcuts, and how Linux tracks and stores command history. Also studied file permissions and ownership, including how to use chmod, chown, and chgrp, and how permission values work both symbolically and numerically.
+
+### Lab Work
+
+Practiced recalling commands using history, !!, and CTRL+R, and tried different keyboard shortcuts. Also experimented with file permissions by changing them using both symbolic and numeric modes with chmod.
+
+### What Challenged Me
+
+Remembering the different ways of recalling commands and understanding the numeric permission system at first.
+
+### Overall Reflection
+
+This part of the chapter felt more practical and directly useful. File permissions especially seem very important and something I’ll need to practice more to get comfortable with.
